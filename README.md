@@ -1,17 +1,20 @@
-## Hi there 👋
+## Hello!
+I am currently a 3rd year Computer Science student specialising in _cybersecurity & cryptography._
+I can code in Python, Java, C# and Ruby fluently, and proficient in several others.
 
-- This is a _test_ to see what kind of **things I can do with this readme
-<!--
-**thejokeson-you/thejokeson-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Past Works
+I have undertaken several projects as part of my degree, which include:
+- WIP
+- WIP
+- WIP
 
-Here are some ideas to get you started:
+I have also taken part in projects outside of my university relating to my interest in cybersecurity, including:
+- HackTheBox
+- Packet Sniffer program
+- Several different encryption programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience with game development, as part of a student-led group at my university called (WIP) 
+
+Feel free to look around my profile if you want to see what work I've been up to!
+
+## Contact Me
